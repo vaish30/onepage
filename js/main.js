@@ -138,6 +138,6 @@ if($().circleProgress){
 
 })(jQuery);
 
-function myfunction(){
+function Myfunction(){
    document.write("webster");
 };
