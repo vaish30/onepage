@@ -137,3 +137,7 @@ if($().circleProgress){
 }
 
 })(jQuery);
+
+function myfunction(){
+   document.write("webster");
+};
